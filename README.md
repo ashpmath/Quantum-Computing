@@ -6,3 +6,4 @@ It's purpose in quantum computing is to acquire the product for spaces of states
 
 ![KroneckerTensor](https://user-images.githubusercontent.com/73625048/190238941-05c21d30-3949-447c-a119-93b43da5acc7.png)
 
+I also included my Final Project that dealt with Quantum Teleportation.
